@@ -1,8 +1,8 @@
 # Data Scientist
 
-## Education
-### University of Waterloo  
-Bachelor of Computer Science
+## Education 
+- BCS, | University of Waterloo
+- BBA, | Wilfrid Laurier University
 
 
 
