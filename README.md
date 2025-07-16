@@ -1,10 +1,11 @@
 # Data Scientist
 
 ## Education
-Bachelor of Computer Science
+  # University of Waterloo
+  Bachelor of Computer Science
 
-  University of Waterloo
+
 
 ## Experience
-**Data Analyst @ Lazaris' Student Society**
+  **Data Analyst @ Lazaris' Student Society**
 
