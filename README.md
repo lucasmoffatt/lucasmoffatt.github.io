@@ -1,9 +1,8 @@
 # Data Scientist
 
 ## Education
-  # University of Waterloo
-  
-  Bachelor of Computer Science
+# University of Waterloo  
+Bachelor of Computer Science
 
 
 
