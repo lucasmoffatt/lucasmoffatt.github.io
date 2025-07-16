@@ -2,6 +2,7 @@
 
 ## Education
 Bachelor of Computer Science
+
   University of Waterloo
 
 ## Experience
